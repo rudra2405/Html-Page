@@ -1,0 +1,42 @@
+*{
+	padding:  0;
+	margin:  0;
+	box-sizing: border-box;
+}
+.nav-link{
+	color: purple;
+	font-weight: 600;
+}
+.navbar-brand{
+	color: black;
+	font-weight: 700;
+}
+.card{
+	 border: none;
+}
+.main select{
+	height: 40px;
+	width: 90px;
+	outline: none;
+	padding: 0 20px;
+}
+.main span{
+	color: rgb(104,89,89);
+	font-weight: 600;
+}
+.rent{
+	background: rgb(238, 235, 235);
+}
+.footer{
+	background-color:black;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
